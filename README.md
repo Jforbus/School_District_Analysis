@@ -30,3 +30,15 @@
 - percentage of students who passed reading(passing_reading_percentage)
 - overall passing percentage (overall_passing_percentage)
 
+### 2- school overview
+- school name
+- school type
+- total students
+- total school budget
+- per student budget
+- average math score
+- average reading score
+- % passing math
+- % passing reading
+- % overall passing
+
