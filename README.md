@@ -32,36 +32,42 @@ With all the Thomas High School Ninth Graders' scores replaced in the Dataset as
 
 
 How is the school summary affected?
+
 The school summary also remains unchanged with the ninth graders' scores removed. Once the total number of students used to calculate the percentages is corrected, the scores for Thomas High School are unchanged by removing the ninth graders' scores.
 
 ![school_summary](https://github.com/Jforbus/School_District_Analysis/blob/main/Resources/school_summary.png)
 
 
 How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+
 Prior to replacing the ninth graders' scores, Thomas High School was the second highest performing school in the District. After the scores were replaced they remained in second place, showing no relative change.
 
 ![performance_summary](https://github.com/Jforbus/School_District_Analysis/blob/main/Resources/performance-summary.png)
 
 How does replacing the ninth-grade scores affect the following:
-    Math and reading scores by grade.
+    
+   Math and reading scores by grade.
         
-     In the scores by grade we can cleary see the results of our omission. Where before Thomas High School showed an 83.7 and 83.6 in 
-     reading and math, both now show as `nan`.
+   In the scores by grade we can cleary see the results of our omission. Where before Thomas High School showed an 83.7 and 83.6 in 
+   reading and math, both now show as `nan`.
         ![score_grade](https://github.com/Jforbus/School_District_Analysis/blob/main/Resources/scores_grade.png)
         
+   
    Scores by school spending.
     
-    We see no change in the output for the school spending summary. 
+   We see no change in the output for the school spending summary. 
         ![school_spending](https://github.com/Jforbus/School_District_Analysis/blob/main/Resources/spending_summary.png)
         
+   
    Scores by school size.
     
-    There is also no change in the summarization based on school size.
+   There is also no change in the summarization based on school size.
        ![size_summary](https://github.com/Jforbus/School_District_Analysis/blob/main/Resources/size_summary.png)
        
-   Scores by school type
+   
+   Scores by school type.
      
-     Lastly, the summary based on school type remained unaffected by the removal of the 9th grade scores for Thomas High School.
+   Lastly, the summary based on school type remained unaffected by the removal of the 9th grade scores for Thomas High School.
        ![type_summary](https://github.com/Jforbus/School_District_Analysis/blob/main/Resources/type_summary.png)
 
 ## Summary
