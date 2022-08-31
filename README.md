@@ -7,12 +7,12 @@ The School Board of a local School District has requested the following tasks be
 1. A high-level snapshot of the district's key metrics, presented in a table format
 2. An overview of the key metrics for each school, presented in a table format
 3. Tables presenting each of the following metrics:
-    . Top 5 and bottom 5 performing schools, based on the overall passing rate
-    . The average math score received by students in each grade level at each school
-    . The average reading score received by students in each grade level at each school
-    . School performance based on the budget per student
-    . School performance based on the school size 
-    . School performance based on the type of school
+    - Top 5 and bottom 5 performing schools, based on the overall passing rate
+    - The average math score received by students in each grade level at each school
+    - The average reading score received by students in each grade level at each school
+    - School performance based on the budget per student
+    - School performance based on the school size 
+    - School performance based on the type of school
 
 At the time of the analysis' completion, it was brought to the attention of the School District that some portion of the data was corrupted. The scores for Thomas High School Ninth Graders would need to be omitted entirely to preserve the validity of the analysis. Once the scores for the affected portion of the student population were redacted, the original analysis was repeated to obtain the necessary results for the School Disrict.
 
